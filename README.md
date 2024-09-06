@@ -18,3 +18,5 @@ Switch a brach
 ~~~
 git checkout 00_fundamentos
 ~~~
+
+Info in main
